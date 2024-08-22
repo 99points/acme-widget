@@ -14,7 +14,7 @@ This project is a proof of concept for the Acme Widget Co sales system.
 3. Run tests:
 
     ```bash
-    vendor/bin/phpunit
+    composer test
     ```
 
 ## Assumptions
