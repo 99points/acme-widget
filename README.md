@@ -17,12 +17,6 @@ This project is a proof of concept for the Acme Widget Co sales system.
     vendor/bin/phpunit
     ```
 
-4. Run static analysis:
-
-    ```bash
-    vendor/bin/phpstan analyse
-    ```
-
 ## Assumptions
 
 - The product catalog, delivery rules, and offers are injected via the constructor for flexibility.
@@ -39,4 +33,3 @@ This project is a proof of concept for the Acme Widget Co sales system.
 
 - **Dependency Injection**: Product catalog, delivery rules, and offers are injected to allow easy testing and flexibility.
 - **Strategy Pattern**: Offers are implemented as strategies, allowing easy addition of new offers without modifying the basket class.
-- **PHPStan**: Static analysis ensures type safety and code quality.
