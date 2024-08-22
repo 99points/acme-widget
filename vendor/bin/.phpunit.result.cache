@@ -1,1 +1,0 @@
-{"version":1,"defects":{"BasketTest::testTotalWithRedWidgetOffer":7,"BasketTest::testTotalWithRedandBlueWidget":7,"BasketTest::testTotalWithRedTwoandRedThree":7},"times":{"BasketTest::testTotalWithoutOffers":0.001,"BasketTest::testTotalWithRedWidgetOffer":0,"BasketTest::testTotalWithRedandBlueWidget":0,"BasketTest::testTotalWithRedTwoandRedThree":0.002}}
